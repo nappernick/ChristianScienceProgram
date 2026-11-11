@@ -40,6 +40,7 @@ One chronology. Sources: **B** Bible, **C** chapters, **P** proposed (character 
 | --- | --- | --- |
 | Three weeks before she joins | Locke's name on the request | C |
 | About a month aboard | The survey. Basalt dated to 200,000 years. Dinners | C |
+| Nine days before the dive | The bot's sonar finds a hard return inside the flow | P, ch. 2 |
 | Four days before the dive | The Notebook question: date the ship, not the seafloor | P |
 | Two nights before | Iyer first says the number at dinner. Carrow stops on his way out | P |
 | Dive day, 02:20 | Fourth run: 203 ± 9. Dunmore's clipboard says 201. Carrow asks for the date to be held | P |
@@ -47,6 +48,7 @@ One chronology. Sources: **B** Bible, **C** chapters, **P** proposed (character 
 | Dive day, 04:40 | She shows Natasha the notebook. The fissure survey goes on the dive plan | P |
 | Dive day, 06:00 | Hatch closed | P |
 | Dive day | Seventy minutes down. The cavity. "We need to call the surface" | C, duration P |
+| Dive day, 07:37 to 08:41 | The fissure survey. No way in from above. A lost beacon on the surface of the flow | P, ch. 2 |
 | Dive day | The call, the contact, the Three Lines | P, chapter 3 drafts missing |
 | Within days | Carrow takes the records. Tobias's message reaches Peckham | P |
 | The evening of dive day | Carrow takes the dive records (default in `STATE.md`; chapter 4 refers back to it) | P |

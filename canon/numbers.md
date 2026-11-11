@@ -15,6 +15,10 @@ Every figure the prose uses, with where it comes from. The method's rule: comput
 | Cylinder | about 1 m long | Chapter 2 | OK |
 | Bottom time | 4 h planned | Chapter 1 v4. Battery-limited | OK |
 | Whole dive | 6.5 h, hatch to hatch | 70 + 240 + 70 min, plus launch and recovery | OK |
+| Fissure survey | 30 × 30 m, sixteen lanes 2 m apart at 2 m altitude, 4 min a lane | Chapter 2. About 64 min, 07:37 to 08:41 | Proposed |
+| Joint crossings | 211; none wider than 3 mm | Chapter 2 | Proposed |
+| Neutral depth on arrival | 1,998 m | Descent weights dropped just above the bottom | OK |
+| Hull pressure at 100 m, 500 m | 11 and 51 atmospheres | 1 per 10 m, plus 1 | OK |
 | Sphere | about 2 m inside | Typical for a three-person research submersible | OK |
 
 ## The site

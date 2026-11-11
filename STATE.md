@@ -2,12 +2,12 @@
 
 Read this first. Rewrite it at the end of every session. Keep it to one screen.
 
-**Last updated:** 2026-11-11, after chapter 4
+**Last updated:** 2026-11-11, after chapters 4 and 2
 
 ## Where we are
 
 - **Chapter 1** is draft v4 (6,395 words, not yet approved). The old v3 is in `book/drafts/01-opening.v3.md`.
-- **Chapter 2** is unchanged (1,232 words, still "Mariana"). It is the only chapter that does not follow from the others.
+- **Chapter 2** is draft 2 (4,868 words): the descent kept, the fissure survey added. The original is `archive/chapter_two_draft.md`.
 - **Chapter 3** is draft 4 in `book/chapters/03-call.md` (7,781 words). One leftover: "well clear of the band" should read "well clear of either end."
 - **Chapter 4** is draft 3 in `book/chapters/04-lift.md` (8,637 words). Three plans, the review and links to drafts 1 and 2 are in `book/notes/04-lift.md`.
 - Eleven character folders, the ensemble file, five lore files. All Proposed.
@@ -17,10 +17,9 @@ Read this first. Rewrite it at the end of every session. Keep it to one screen.
 
 Do these in order, without waiting on the author.
 
-1. **Chapter 2, rewritten.** Rename. Her fifth dive. The descent, kept line for line where the lore depends on it. Then the fissure survey that chapter 1 put on the dive plan: no crack over the object, and a real lost transponder fouled on the basalt as a dry joke. Then the void on sonar. Ends on "We need to call the surface." At most one "Not X. Not Y." Target 5,500 words or more. Keep the original as `book/drafts/02-descent.v1.md`.
-2. **`canon/lore/the_readers_book.md`.** The second, longer text of the Reading that chapter 4 introduces: its 2075 source, each hand it passed through, why the hub's version differs on four points, and the "four degrees" hymn (ledger C20, C21).
-3. **The Reading:** the full Vigil text, assembled from chapters 2 to 4, into `canon/lore/`.
-4. **Chapter 5.** First light: the sponsors' boat at the rail. Card:
+1. **`canon/lore/the_readers_book.md`.** The second, longer text of the Reading that chapter 4 introduces: its 2075 source, each hand it passed through, why the hub's version differs on four points, and the "four degrees" hymn (ledger C20, C21).
+2. **The Reading:** the full Vigil text, assembled from chapters 2 to 4, into `canon/lore/`.
+3. **Chapter 5.** First light: the sponsors' boat at the rail. Card:
 
 | Gives | Keeps |
 | --- | --- |
@@ -37,7 +36,7 @@ Used wherever the author has not ruled. Each is logged in the ledger as Proposed
 | Question | Default |
 | --- | --- |
 | Name | Miriam Calder |
-| Chapter length | 6,000 to 8,500 words. Chapters 3 and 4 run long (ledger C18) |
+| Chapter length | 6,000 to 8,500 words. Chapter 2 is shorter on purpose (ledger C18) |
 | May the far timeline speak on page one (B18) | Yes. The rule binds the 2075 narrator only |
 | What the linguist first does that nobody else could (C4) | Done in chapter 4: a scribal correction on the exposed strip. No mechanism for "why only Miriam" is stated yet |
 | The date against our species (C2) | Narration compares it to the oldest writing. Only characters speak about human origins |
@@ -50,7 +49,7 @@ Used wherever the author has not ruled. Each is logged in the ledger as Proposed
 
 ## Waiting on the author
 
-Nothing blocks the queue. When convenient: read chapters 1, 3 and 4; rule on ledger sections B and C; fill `canon/sealed.md`; decide where the book stops (`book/outline.md`); say whether the branch should be merged to `master`.
+Nothing blocks the queue. When convenient: read chapters 1 to 4; rule on ledger sections B and C; fill `canon/sealed.md`; decide where the book stops (`book/outline.md`); say whether the branch should be merged to `master`.
 
 ## Not present in this repository
 

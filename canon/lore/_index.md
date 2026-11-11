@@ -17,6 +17,7 @@ Every ship custom is a 2075 fact worn into another shape. This table ties each o
 | "Say the last part again?" and Natasha repeats it in the same words | Ch. 1, 04:40 | Candidate first line of the Reading: the Founder would have every word | `the_vigil_of_the_descent.md` |
 | Natasha writes down every number, the time, and whose idea it was | Ch. 1, 04:40 | Candidate for "the one record that no party disputes" (ledger B28) | none yet |
 | Tobias lays his hand on each seal, and twice on the closed hatch. "God go with you" | Ch. 1, 05:40 | None yet. A strong candidate for a ship custom at every airlock | none yet |
+| Foam cups sent to the bottom in a net bag, each with a name; Tobias draws a cross on his | Ch. 2 | None yet. A candidate custom | |
 | The acoustic lag, 1.33 s each way | `numbers.md`, ch. 3 | The Pause, "a breath and a third" | `the_pause.md` |
 | "We need to call the surface" | Ch. 2 | The first of the Founder's calls | `the_vigil_of_the_descent.md` |
 | The notebook in her chest pocket, the half-formed question | Ch. 1, 2 | The Notebook. "Date the ship, not the sea" | `the_notebook.md` |

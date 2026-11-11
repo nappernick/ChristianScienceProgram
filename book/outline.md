@@ -18,7 +18,7 @@ Chapter 1 v4 runs 6,395 words and chapter 2 runs 1,232. The first two originals 
 
 | | Target | Written |
 | --- | --- | --- |
-| 2075 | | 24,045 (chapters 1 to 4, including the ship sections of 3 and 4) |
+| 2075 | | 27,681 (chapters 1 to 4, including the ship sections of 3 and 4) |
 | Year 304 | | 0 |
 
 ## Chapter cards
@@ -28,7 +28,7 @@ One row per chapter. Gives and keeps are the method's two columns.
 | # | Era | POV | Where it goes | Gives | Keeps | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 2075 | Miriam | The ships' five accounts. Then the night before: the fourth run, Dunmore's clipboard, Carrow, what she is for, no fissure, Locke, the hatch | The date holds. Who she is. Her prediction that it is debris down a crack | What the object is. Where she walked out of. Why Locke sent her | Draft v4, full rewrite. Not yet approved |
-| 2 | 2075 | Miriam | The descent. The search for a crack. The cavity on sonar. "We need to call the surface" | The cavity, the cylinder's shape | Its material, what is in it | Draft 1. Must be rewritten to follow chapter 1 v4 (ledger C15) |
+| 2 | 2075 | Miriam | The descent. The fissure survey: sixteen lanes, no way in from above, a lost transponder lying on the roof. Then the cavity at fine resolution. "We need to call the surface" | No fissure above it. The cavity, the cylinder's shape | Its material, what is in it, the east joint | Draft 2. Not approved |
 | 3 | 2075, 304 | Miriam, Wren | The call, Iyer's "your call," the wedge, the contact, the Three Lines. The Vigil cut against it | First touch. "It gave." The ship | The two seconds, as a finding | Draft 3 in `book/drafts/`. Needs the changes in `book/notes/03-call.md` |
 | 4 | 2075, 305 | Miriam, Wren | The day after. Forecast and clause fourteen. The lift fails; the propped plate; "slide it." The carry. The seam. The cap. The count, the correction, four names. The Reader's book | The lid, the weight, the sea held it shut, seven rolls, "It's writing." Carrow learns how rare she is | Why it is not a cinder. What any sign means. Whether the plate would have held. Who was nine miles off | Draft 3 of three. Not approved |
 | ? | 304 | Wren | The Vigil. One reply unsaid. Perpetua hears | The ship, the fossils of chapters 1 to 3 | Why the Pause is that long | Not started |

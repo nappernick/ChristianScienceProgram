@@ -34,6 +34,10 @@ Kind: **Q** question the book answers, **O** open by design, **D** deliberate de
 | Did the abbot turn the page? | Year 304 | ? | |
 | Is a copy of the recording aboard? | Year 304 | ? | |
 | Why is it not a cinder? The cavity is a mold | Ch. 4 | Q | |
+| The east joint, obscured from above | Ch. 2 | Q | Ch. 3: her crack, a wrist wide |
+| The lost transponder | Ch. 1, ch. 2 | D | Lies on the roof. It answers her question, and the answer is no |
+| The step that looked like a crack | Ch. 2 | D | A shadow |
+| Tobias's foam cups | Ch. 2 | ? | Candidate ship custom |
 | Would the plate have held? | Ch. 4 | O | Never |
 | The vessel nine miles off | Ch. 4 | ? | Same thread as the other mapper. Named once, then dropped |
 | Was it warm? | Ch. 4 | O | The material is alive, years later. His hands were also cold |

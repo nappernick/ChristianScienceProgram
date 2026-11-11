@@ -105,7 +105,7 @@ He did not argue with a fact. Miriam had seen that in him the night before, over
 
 ### 06:20.
 
-The launch was wet. The stern rose and fell a slow meter, and the *Wren* swung on her line like a bell before the sea took her weight. Tobias had gone round the hatch seal with his bare thumb, the whole circle, his lips moving. Then he shut it over their heads. The last Miriam saw of the day was his palm flat against the port, and grey water sliding up behind it.
+The launch was wet. The stern rose and fell a slow meter, and the Wren swung on her line like a bell before the sea took her weight. Tobias had gone round the hatch seal with his bare thumb, the whole circle, his lips moving. Then he shut it over their heads. The last Miriam saw of the day was his palm flat against the port, and grey water sliding up behind it.
 
 Hess flooded the tanks. The motion stopped. It always stopped in the first twenty meters, as if a hand had been laid on the hull.
 
@@ -133,11 +133,11 @@ Hess grunted. He was bent to the arm controls with his chin nearly on his chest.
 
 Natasha, on Miriam’s left with her good ear turned inboard, very nearly smiled. It was cold in the sphere, as it always was by the second hour. The hull sweated. The three of them breathed each other’s air and did not speak of the thing a meter and a half under the plate. Miriam found that she was grateful for the drill.
 
-Hole three, twenty-three minutes. Hole four, twenty-four. Then the anchors, steel sleeves that spread when Hess drove the pin, and a pull test on each. The yellow spreader bar came down out of the dark on the main line with its pinger ticking, and Hess walked the claw round four shackle pins while Miriam read him the time at every one. At 09:58 he said, “Four on.” He backed the *Wren* out north and upslope without being asked. At 10:03 he set her down on bare rock two hundred meters off and folded his arms.
+Hole three, twenty-three minutes. Hole four, twenty-four. Then the anchors, steel sleeves that spread when Hess drove the pin, and a pull test on each. The yellow spreader bar came down out of the dark on the main line with its pinger ticking, and Hess walked the claw round four shackle pins while Miriam read him the time at every one. At 09:58 he said, “Four on.” He backed the Wren out north and upslope without being asked. At 10:03 he set her down on bare rock two hundred meters off and folded his arms.
 
 “Nobody sits under a load,” he said. It was not addressed to anyone. He said it the way another man might have touched wood.
 
-“Surface, *Wren*. Clear. Take your strain.”
+“Surface, Wren. Clear. Take your strain.”
 
 ### 10:05.
 
@@ -167,7 +167,7 @@ Miriam understood it as she would have understood a sentence. The machine that k
 
 They heard it then. It came through the water and the hull as one dull knock, very low, like a fist on the far side of a wall. Natasha had her fingers flat against the sphere. Hess did not move at all.
 
-“Ten point four,” Dunmore said. His voice had gone thin and quick. “That was the snatch. The line’s rated twelve. He’s putting it down. He’s putting it down now, wherever it is. Three. One. Nought point three.” A long breath, chewed by the modem. “It’s down. *Wren*, it’s down, and I can’t tell you where. I won’t have that load on that line a second time and neither will Kamala. That was your lift. There isn’t another.”
+“Ten point four,” Dunmore said. His voice had gone thin and quick. “That was the snatch. The line’s rated twelve. He’s putting it down. He’s putting it down now, wherever it is. Three. One. Nought point three.” A long breath, chewed by the modem. “It’s down. Wren, it’s down, and I can’t tell you where. I won’t have that load on that line a second time and neither will Kamala. That was your lift. There isn’t another.”
 
 “Understood,” Hess said. He was already driving.
 
@@ -179,7 +179,7 @@ It had gone back most of the way into its own socket. Its western edge was down 
 
 The yellow bar lay across the top in a tangle of chain. The line went up from it into the dark, and it was moving. It tightened, and sagged, and tightened.
 
-“Surface, *Wren*. Fire the release on the bar. I don’t want that line.”
+“Surface, Wren. Fire the release on the bar. I don’t want that line.”
 
 A breath and a third. Another. Then the bar gave a small jerk, and the line slid up out of the lights and was gone.
 
@@ -281,7 +281,7 @@ He drew it back. Two centimeters a second. A meter and six-tenths. She counted i
 
 Nobody breathed out. Hess swung it over the basket and laid it down in the foam, and Natasha read the lid shut at 10:58, and the temperature, and the latch, twice.
 
-Then he backed the *Wren* off the rock. He did it very gently, with the thrusters turned away. The plate stayed where it was.
+Then he backed the Wren off the rock. He did it very gently, with the thrusters turned away. The plate stayed where it was.
 
 It was still standing on its one leg when the lights left it. There were four holes in it with steel in them, and a yellow bar on top. Miriam watched it on the aft camera until it was a grey shape, and then a guess.
 
@@ -303,13 +303,13 @@ That was the whole of her record. She had made no drawing. She had not measured 
 
 The ascent was seventy minutes of nothing, and then the sea took hold of them again.
 
-It began at about thirty meters as a slow lean, one way and then the other. By ten it was a swing. When the *Wren* broke the surface she rolled until the port on Miriam’s side was green water and the one on Natasha’s was sky, and then she rolled back, and Natasha put her hand over her mouth and kept it there.
+It began at about thirty meters as a slow lean, one way and then the other. By ten it was a swing. When the Wren broke the surface she rolled until the port on Miriam’s side was green water and the one on Natasha’s was sky, and then she rolled back, and Natasha put her hand over her mouth and kept it there.
 
 The box was outside, in the basket, in that. For seventy minutes two hundred atmospheres had been coming off it, ten meters at a time. Nobody had been able to look. Nobody could look now.
 
 “He’s got one go at this,” Hess said. He meant the hook.
 
-Miriam saw it through the upper port in pieces. The ship’s stern, enormous, lifting. A line coming down. Then a pair of boots landed on the hull over her head, and a body dropped flat along the *Wren*’s back with one arm hooked through the lifting bail. A sea went clean over him. When it had gone he was still there. His free hand came up with the hook in it, and missed, and waited through the next roll with what seemed to her a terrible patience, and did not miss.
+Miriam saw it through the upper port in pieces. The ship’s stern, enormous, lifting. A line coming down. Then a pair of boots landed on the hull over her head, and a body dropped flat along the Wren’s back with one arm hooked through the lifting bail. A sea went clean over him. When it had gone he was still there. His free hand came up with the hook in it, and missed, and waited through the next roll with what seemed to her a terrible patience, and did not miss.
 
 “On,” Hess said. It was the first time she had heard him sound relieved.
 
