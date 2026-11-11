@@ -425,15 +425,7 @@ So much for holding it out of the daily report.
 
 Hess was at the foot of the ladder. He was the pilot: fifty-four, broad, with large quiet hands and a way of looking at people that she had at first found disconcerting and now found she relied on. He looked at Natasha. He looked at Miriam, for somewhat longer.
 
-“You didn’t sleep,” he said.
-
-“No.”
-
-He considered that as he might have considered a reading that was inside limits but only just.
-
-“You’ll sleep on the way down,” he said. “Most people do, the first hour. There’s nothing to see.”
-
-It was more than he usually said to her in a day.
+He considered what he saw as he might have considered a reading that was inside limits but only just. Then he tipped his head toward the ladder and stood aside.
 
 Iyer had come out to see them off. She did it for every dive and pretended each time that she happened to be passing. She had a coat on over the clothes she had been wearing at half past two, and her hands were in her sleeves.
 

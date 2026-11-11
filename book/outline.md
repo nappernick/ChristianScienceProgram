@@ -14,11 +14,11 @@ Recommendation: **narrow**. It uses everything already built, the two lines cros
 
 ## Length
 
-Chapter 1 v4 runs 6,418 words and chapter 2 runs 1,232. The first two originals ran 860 and 1,230. At the original size a 90,000-word novel is about eighty chapters. At chapter 1's new size it is about fourteen. Set a target and a count per line.
+Chapter 1 v4 runs 6,395 words and chapter 2 runs 1,232. The first two originals ran 860 and 1,230. At the original size a 90,000-word novel is about eighty chapters. At chapter 1's new size it is about fourteen. Set a target and a count per line.
 
 | | Target | Written |
 | --- | --- | --- |
-| 2075 | | 7,650 |
+| 2075 | | 7,627 |
 | Year 304 | | 0 |
 
 ## Chapter cards
@@ -29,7 +29,7 @@ One row per chapter. Gives and keeps are the method's two columns.
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 2075 | Miriam | The ships' five accounts. Then the night before: the fourth run, Dunmore's clipboard, Carrow, what she is for, no fissure, Locke, the hatch | The date holds. Who she is. Her prediction that it is debris down a crack | What the object is. Where she walked out of. Why Locke sent her | Draft v4, full rewrite. Not yet approved |
 | 2 | 2075 | Miriam | The descent. The search for a crack. The cavity on sonar. "We need to call the surface" | The cavity, the cylinder's shape | Its material, what is in it | Draft 1. Must be rewritten to follow chapter 1 v4 (ledger C15) |
-| 3 | 2075 | Miriam | The call, Iyer's "your call," the contact, the Three Lines | First touch. "It gave" | The two seconds | Drafts 2 and 3 exist elsewhere. Not in this project |
+| 3 | 2075, 304 | Miriam, Wren | The call, Iyer's "your call," the wedge, the contact, the Three Lines. The Vigil cut against it | First touch. "It gave." The ship | The two seconds, as a finding | Draft 3 in `book/drafts/`. Needs the changes in `book/notes/03-call.md` |
 | ? | 304 | Wren | The Vigil. One reply unsaid. Perpetua hears | The ship, the fossils of chapters 1 to 3 | Why the Pause is that long | Not started |
 
 ## Where the first Year 304 chapter goes
