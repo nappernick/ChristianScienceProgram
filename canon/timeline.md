@@ -49,6 +49,13 @@ One chronology. Sources: **B** Bible, **C** chapters, **P** proposed (character 
 | Dive day | Seventy minutes down. The cavity. "We need to call the surface" | C, duration P |
 | Dive day | The call, the contact, the Three Lines | P, chapter 3 drafts missing |
 | Within days | Carrow takes the records. Tobias's message reaches Peckham | P |
+| The evening of dive day | Carrow takes the dive records (default in `STATE.md`; chapter 4 refers back to it) | P |
+| The day after, 05:10 | Forecast: 2.5 m of swell by 13:00. A vessel nine miles off. Clause fourteen: one night | P, ch. 4 |
+| The day after, 10:05 to 10:58 | The lift fails. The propped plate. She tells Hess to slide it out. 4 N | P, ch. 4 |
+| The day after, 12:44 | Tobias carries it eleven steps. "It's warm" | P, ch. 4 |
+| The day after, 15:05 to 21:52 | The seam. The cap comes off. Seven rolls | P, ch. 4 |
+| The second night, 01:52 | The correction. "It's writing." Dunmore's dissent. Four names | P, ch. 4 |
+| First light after | The sponsors' boat is due at the rail | P, ch. 4. Not yet written |
 
 ## After the dive
 
@@ -83,6 +90,7 @@ Order is fixed by the Bible. Dates are not, except where marked.
 | 289 | Wren born | P |
 | 304 | Wren silent at one reply. Her name goes forward | P |
 | 305 | Her Reader year. The next Opening falls due | P |
+| 305 | Perpetua gives Wren the Reader's book: the stone was not lifted, the youth carried it, the witness said four degrees, no hand opened it | P, ch. 4 |
 
 ## Holes this table shows
 

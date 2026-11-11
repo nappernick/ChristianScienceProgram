@@ -35,6 +35,29 @@ Every figure the prose uses, with where it comes from. The method's rule: comput
 | Antikythera lettering | about 1.5 mm tall | Published letter heights are 1.2 to 2 mm | OK |
 | Antikythera recovery | 1901 | Sponge divers, 1900 to 1901 | OK |
 
+## The lift (chapter 4)
+
+| Figure | Value | Derivation | Verdict |
+| --- | --- | --- | --- |
+| Plate | 4 × 2.5 × 0.3 m, 3 m³ | Chapter 4 | Proposed |
+| Plate mass | 8.7 t | 3 m³ × 2.9 t/m³ for basalt | OK |
+| Plate weight in water | 5.6 t | Less 3 m³ × 1.03 t/m³ of seawater | OK |
+| Breakout peak | 6.3 t | Keyed in its joints; about 0.7 t over weight | Proposed |
+| Main line rating | 12 t | Synthetic, near-neutral in water, so the gauge reads the load alone | Proposed |
+| Snatch load | 10.4 t | Compensator out of stroke in about 1.9 m of swell; slack then taut | Plausible. Snatch factors of 2 are ordinary |
+| Recovery limit | 2.5 m significant wave height | Typical for crewed submersibles | OK |
+| Slot under the propped plate | 0.5 m at the corner; object 1.5 to 1.6 m in; arm reach 1.9 m | Chapter 4 | Proposed |
+| Withdrawal | 1.6 m at 2 cm/s = 80 s | | OK |
+| Cylinder volume | 31.4 L | π × 0.1² × 1 m | OK |
+| Cylinder mass | about 32 kg | Displaces 32.3 kg of seawater and weighs 4 N more | OK |
+| Weight in water | 4 N, about 0.4 kg | Arm load cell. "A tin of soup" | Proposed |
+| Compressibility of water at 200 atm | a little under 1 percent | Bulk modulus about 2.2 GPa; 20 MPa ÷ 2.2 GPa = 0.9 percent | OK |
+| Cap travel | about 7 mm | 20 L × 0.9 percent = 180 mL, over π × 9² = 254 cm² | OK |
+| Seam | 0.1 mm at 15:10, 0.3 at 16:00, 0.6 at 17:00, 4 mm by 21:00, off at 21:52 | Chapter 4. Wall relaxing | Proposed |
+| Cap | 11 cm deep, wall a finger thick | Chapter 4 | Proposed |
+| Rolls visible | 7 | Chapter 4 | Proposed. Bible gives no count |
+| The strip | 9 rows, 212 places, 31 figures, 1.5 mm high | Chapter 4. Commonest figure 27 times; 9 figures once | Proposed |
+| Reader year | Year 305; last Opening Year 275; thirty years | `timeline.md` | OK |
 ## The ship
 
 | Figure | Value | Derivation | Verdict |

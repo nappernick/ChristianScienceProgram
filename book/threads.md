@@ -33,6 +33,15 @@ Kind: **Q** question the book answers, **O** open by design, **D** deliberate de
 | The handwriting looks careful | Year 304 | Q | |
 | Did the abbot turn the page? | Year 304 | ? | |
 | Is a copy of the recording aboard? | Year 304 | ? | |
+| Why is it not a cinder? The cavity is a mold | Ch. 4 | Q | |
+| Would the plate have held? | Ch. 4 | O | Never |
+| The vessel nine miles off | Ch. 4 | ? | Same thread as the other mapper. Named once, then dropped |
+| Was it warm? | Ch. 4 | O | The material is alive, years later. His hands were also cold |
+| The denser liquid in the syringe | Ch. 4 | Q | |
+| Seven rolls visible. How many are there? | Ch. 4 | Q | |
+| The four names in Carrow's hands | Ch. 4 | Q | Locke stays a dead end. The other three are not yet people |
+| "AD does not agree. 01:52" in her notebook | Ch. 4 | Q | The Notebook's other pages |
+| What the ship opens at the Opening: a box with a latch | Ch. 4, Year 305 | Q | The Opening |
 | Did she find God or a coincidence? | The whole book | O | Never |
 
 ## 2. Who knows what
@@ -56,6 +65,12 @@ The book runs on one person knowing what others cannot check. Track it.
 | What happened at the Opening of 275 | Perpetua, one other | The ship | |
 | Wren's thought at the glass | Wren, then Perpetua | Her family | |
 | The Pause was a sound lag | The receiver crews, as a saying. Perpetua | The ship | |
+| The plate was never lifted clear, and was left standing | The dive party, the van | The ship: "the Founder lifted the stone" | Ch. 4 |
+| Tobias carried it and said it was warm; Natasha denied it | Everyone on the fantail. The Reader's book | The hub, which gives the words to Natasha | Ch. 4 |
+| Nobody opened it | The six in the wet lab. The Reader's book | The hub | Ch. 4 |
+| The marks are writing, on one patch | Miriam, Dunmore (who does not agree), Natasha, Iyer, Carrow | The sponsors, until first light | Ch. 4 |
+| How few people could replace her, and their names | Carrow. Dunmore saw it happen | Miriam, in the sense that matters | Ch. 4 |
+| Tobias's second message | Tobias | Miriam saw him send it and thought nothing of it | Ch. 4 |
 
 ## 3. Miriam's line
 
@@ -65,6 +80,7 @@ Every Miriam scene is placed on this before it is written (the Arc test).
 | --- | --- | --- | --- |
 | Before the dive | By instinct | Settled atheist | 1, 2 |
 | The find | By instinct. One thing kept: the two seconds | Unchanged, unsettled | 3 |
+| The lift and the one night | By instinct, and it is used: the notebook photographed, four names written out for Carrow | Unchanged. "It's writing" arrives as the bottom line of a sum | 4 |
 | Carrow | First motive to keep something back | | |
 | Translation, first three years | Tries, with the team | Breaking | |
 | The match | Tries with friends, then believers. Fails | Rebuilt by force. Fury | |

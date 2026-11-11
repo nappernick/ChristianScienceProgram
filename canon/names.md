@@ -43,6 +43,7 @@ A scene with two Hesses in it needs a way to tell them apart that is not the nam
 | The survey ship | none | **Unnamed** |
 | The consortium, its four companies and one government | none | **Unnamed** |
 | The other mapper's vessel | none | Unnamed, possibly on purpose |
+| The sponsors' vessel | none | Unnamed. Fourteen hours out on the day of the lift (chapter 4) |
 | Miriam's city | none | Unnamed |
 | Tobias's church | Peckham, south London | Proposed |
 | The pilgrim ship | none | **Unnamed** |

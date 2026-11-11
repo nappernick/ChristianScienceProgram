@@ -24,6 +24,9 @@ Every ship custom is a 2075 fact worn into another shape. This table ties each o
 | A coffee stain | Proposed | The water of the Descent | `the_notebook.md` |
 | The camera housing bumps the cylinder | Ch. 3 drafts | The Founder's hand | `the_vigil_of_the_descent.md` |
 | Natasha's spectrum "reads like bone" | Ch. 3 drafts | She "spoke of the warmth of the water" | `the_vigil_of_the_descent.md` |
+| Tobias carries it eleven steps and says "It's warm"; Natasha says "It's four degrees. Your hands are cold" | Ch. 4 | Hub: the witness "spoke of the warmth of the water." Reader's book: the youth who shut the door, and the witness's reply. "Four degrees" glossed as four stages of the heart's warming, with a hymn | No file yet (ledger C20, C21) |
+| The plate is never lifted clear; she says "slide it" | Ch. 4 | Hub: "the Founder lifted the stone." Reader's book: "draw it out along its own bed" | No file yet (C20) |
+| The cap comes off as the pressure lets go | Ch. 4 | Hub: "she opened it." Reader's book: "no hand opened it." The Opening opens a later box with a latch | No file yet (C20) |
 | Dissent as contamination, loyalty frameworks | Bible, Part Four | Setting apart, then the Reader's Cure | `the_readers_cure.md` |
 | One glimpse of the crack per disciple | Bible, Part Three | "I have always thought so too," said once | `the_readers_cure.md` |
 

@@ -38,3 +38,7 @@ Three people in a submersible took about seventy minutes to sink two thousand me
 - The duration is still exact, because the engineers still need the hour.
 - The joke about the Silent One ("it was more than he was used to give") is a true detail from the recorder that somebody liked too much to cut.
 - The recording itself. Whether a copy was carried, and where it is, is an open question worth keeping open.
+
+## Note after chapter 4 (ledger C19)
+
+Chapter 4 puts the word "warm" on the fantail on the day of the lift, in Tobias's mouth, with Natasha contradicting him. The account above, in which "warm" enters from a coalition-era sermon as a figure of speech, needs one more hand in the chain. Proposed: Tobias, put ashore, told it to everyone. The sermon had it from his telling. The first written Reading could not have the witness contradict the youth, so it gave the words to the witness and dropped the youth. The Reader's book kept the exchange as it was said. Nothing above is withdrawn; this is where the sermon got it.
